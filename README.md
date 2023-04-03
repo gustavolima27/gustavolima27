@@ -33,6 +33,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 <div align="center">
   
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
-<br></div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
